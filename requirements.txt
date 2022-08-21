@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+python-chess >= 1.9
+flask >= 2.1.2
+numpy >= 1.22
